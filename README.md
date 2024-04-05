@@ -1,4 +1,4 @@
-# Attendee List App
+# Pass in Web App
 
 Este é um aplicativo web desenvolvido como parte do evento Next Level Week (NLW) Unite, oferecido pela Rocketseat. O aplicativo tem como objetivo exibir uma lista de participantes de um evento, proporcionando recursos de busca, paginação e interações para gerenciar os participantes de forma eficiente.
 
